@@ -3,7 +3,7 @@
 👋 Hi, I’m Dhrishya
 
 
-🚀 Project Snapshots
+🚀Project Snapshots
 
 1. H.O.M.E Smart System
 Figma + Flutter prototype for care homes | Gamified energy tracking
